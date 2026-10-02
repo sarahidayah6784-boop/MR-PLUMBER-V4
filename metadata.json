@@ -1,0 +1,9 @@
+{
+  "name": "MR PLUMBER - Masalah Paip? Kami Bantu",
+  "description": "Aplikasi servis plumbing profesional Mr Plumber untuk Lembah Klang, Selangor, Putrajaya, dan Negeri Sembilan. Aduan pantas, sebut harga telus, dan hubungi terus melalui WhatsApp.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
